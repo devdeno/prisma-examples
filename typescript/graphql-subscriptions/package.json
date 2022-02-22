@@ -16,14 +16,14 @@
     "trailingComma": "all"
   },
   "dependencies": {
-    "@prisma/client": "3.10.0-dev.72",
+    "@prisma/client": "3.10.0-dev.73",
     "apollo-server": "2.25.3",
     "graphql": "15.8.0",
     "nexus": "1.2.0"
   },
   "devDependencies": {
     "@types/node": "16.11.25",
-    "prisma": "3.10.0-dev.72",
+    "prisma": "3.10.0-dev.73",
     "ts-node": "10.5.0",
     "ts-node-dev": "1.1.8",
     "typescript": "4.5.5"
